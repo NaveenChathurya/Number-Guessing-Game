@@ -1,5 +1,5 @@
 let randomNumber = Math.floor(Math.random() * 10) + 1;
-console.log(randomNumber);
+console.log("Onnati magul balanda epa");
 let attempts = 3;
 
 function guessNumber() {
